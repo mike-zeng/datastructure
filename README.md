@@ -17,7 +17,20 @@
     - 使用链表实现队列
 
 ### 项目结构
-datastructure 
+```
+datastructure
+   - main
+       - java
+           - list
+           - queue
+       - resources
+    - test
+        - java
+            - list
+            - queue
+        - resources
+```
+
 
 
 ### 开始使用
